@@ -41,14 +41,6 @@ const developer = {
 
 ---
 
-### 📊 GitHub Activity Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tienchinh21&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
-</p>
-
----
-
 <p align="center">
   <sub>Designed & built by <b>Nguyen Tien Chinh</b> • Let's connect on <a href="https://www.linkedin.com/in/tienchinh21">LinkedIn</a> or via <a href="mailto:tienchinh21.it@gmail.com">Email</a></sub>
 </p>
